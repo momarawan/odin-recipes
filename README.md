@@ -1,1 +1,1 @@
-# odin-recipes
+# This project is a compilation of html pages housing multiple cooking recipes
